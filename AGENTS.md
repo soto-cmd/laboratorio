@@ -19,6 +19,7 @@ Estas instrucciones son para asistentes de código y revisores automáticos. Apl
 - `.agents/skills/pruebas-funcionales/SKILL.md`
 - `.agents/skills/costos/SKILL.md`
 - `.agents/skills/integracion/SKILL.md`
+- `.agents/skills/diseno-ux-ui/SKILL.md`
 
 ## Flujo
 Descubrir → evaluar riesgos → plan mínimo → cambio en rama → pruebas disponibles → revisión humana → autorización expresa para integrar/desplegar.
